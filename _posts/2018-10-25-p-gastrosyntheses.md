@@ -12,4 +12,4 @@ Recipe repo <3 with a significant sour brot section.
 
 # gastrosyntheses
 
-repo: [gastrosyntheses](https://github.com/mmou/gastrosyntheses)
+repo: [gastrosyntheses](https://github.com/cutelab/gastrosyntheses)
