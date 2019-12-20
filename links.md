@@ -7,6 +7,7 @@ permalink: /links
 Links I've found interesting or super helpful, ordered by date of my adding it here. Open to suggestions.
 
 # Links 
+- \[ 2019-12 \] [Open Reference Architecture for Security and Privacy](https://security-and-privacy-reference-architecture.readthedocs.io/en/latest/06-secmodels.html) ->
 - \[ 2019-10 \] [Why Adding Client-Side Scanning Breaks End-To-End Encryption](https://www.eff.org/deeplinks/2019/11/why-adding-client-side-scanning-breaks-end-end-encryption) ->
 - \[ 2019-10 \] [Content Moderation for End-to-End Encrypted Messaging](https://freedom-to-tinker.com/2019/10/06/content-moderation-for-end-to-end-encrypted-messaging/) ->
 - \[ 2019-10 \] [In Hong Kong, Which Side Is Technology On?](https://www.wired.com/story/hong-kong-protests-digital-technology/) ->
