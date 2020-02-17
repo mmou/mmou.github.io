@@ -11,8 +11,8 @@ layout: default
       {%- if post.type == "project" -%}
       <li>
         {%- assign date_format = "%Y" -%}
-        [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        {{ post.excerpt }}
+        [ {{ post.date | date: date_format }} ] <b><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></b>
+        <div class="body-text">{{ post.excerpt }}</div>
         <br>
         <br>
       </li>

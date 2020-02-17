@@ -8,9 +8,9 @@ header_pages:
   - links.md
   - writing.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 2020
 
-#style: light # dark (default) or light
+style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
