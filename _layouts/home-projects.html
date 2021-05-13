@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{{ content }}
+{% assign contentwonl = content | strip_newlines %} {% unless contentwonl == ""  %} <br /> {% endunless %} <!-- add line break if there is any content -->
+
+{%- if site.posts.size > 0 -%}
+  <ul>
+    {%- for post in site.posts -%}
+      {%- if post.type == "project" -%}
+      <li>
+        {%- assign date_format = "%Y" -%}
+        [ {{ post.date | date: date_format }} ] <b><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></b>
+        <div class="body-text">{{ post.excerpt }}</div>
+        <br>
+        <br>
+      </li>
+      {%- endif-%}
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
