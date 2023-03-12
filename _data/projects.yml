@@ -1,0 +1,13 @@
+# projects 
+- title: vrf-r255
+  url: "https://github.com/mmou/vrf-r255"
+  description: Validated and produced test vectors for the Community Cryptography Specification Project (C2SP) <a href="https://github.com/C2SP/C2SP/blob/main/vrf-r255.md">vrf-r255 spec</a> of the Verifiable Random Function (VRF) cryptographic primitive using ristretto255.
+- url: "https://github.com/mmou/threshold-OPAQUE"
+  title: threshold-OPAQUE
+  description: Experimental Rust implementation of OPAQUE protocol, an asymmetric PAKE, and of threshold OPAQUE (supports multiple servers).
+- url: "https://github.com/keybase/pykeybasebot/blob/master/examples/4_totp_storage.py"
+  title: TOTP client Keybase chat bot
+- url: "https://github.com/mmou/led-marquee" 
+  title: cyberpunk LED marquee
+  description: <a href="https://www.sfmoma.org/artwork/97.758/">Holzer</a>-esque LED marquee, controlled via Rust code running on a raspberry pi. Built for a cyberpunk-themed music festival stage, now perpetually scrolling dystopian gibberish at home.
+

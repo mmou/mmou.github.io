@@ -1,0 +1,70 @@
+# Site settings
+title: "Merry Ember Mou"
+description: ""
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Merry Ember Mou"
+resume_title:                   ""
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           ""
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       ""
+resume_contact_address:         ""
+
+resume_header_contact_info:     ""
+display_header_contact_info:    "false"
+
+resume_header_intro: "I am a security software engineer specializing in applied cryptography, security, and privacy-respecting systems. I develop usable security and applied cryptography for production from protocol design to server-side deployment. 
+</p> 
+<p>I currently work at <a href='https://zoom.us'>Zoom</a>, where I’m implementing end-to-end encryption (E2EE) for Zoom products, including video meetings. I've been building a privacy-preserving key transparency tree to support auditable user identity, for which we’ve formalized the security properties of its underlying <a href='https://eprint.iacr.org/2022/1264'>zero-knowledge cryptography primitives</a>. I've also led the design and implementation of features such as third-party attestations of users’ cryptographic keys. Additionally I am a maintainer of the <a href='https://github.com/zoom/zoom-e2e-whitepaper'>Zoom Cryptography Whitepaper</a>, and have spoken at conferences about our work.
+</p>
+<p>Previously, I worked on <a href='https://keybase.io/'>Keybase</a>, building a E2EE platform on top of the first auditable public key directory deployed in production. Before that, I built global internet scanning data collection pipelines at the network security company <a href='https://www.expanse.co/'>Expanse, Inc.</a>. During my masters, I contributed to <a href='https://civilservant.io/'>CivilServant</a> (now the Cornell <a href='https://citizensandtech.org/'>Citizens and Technology (CAT) Lab</a>), a platform that enables large-scale online citizen science. I completed my computer science undergrad and masters at MIT with the <a href='https://internetpolicy.mit.edu/'>MIT Internet Policy Research Initiative</a>.
+</p>
+"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+# resume_looking_for_work:        "no"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_papers:          true
+resume_section_talks:           true
+resume_section_projects:        true
+resume_section_education:       true
+#resume_section_skills:          true
+#resume_section_recognition:     true
+#resume_section_associations:    true
+#resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            ""
+  resume_twitter_url:           ""
+  resume_dribbble_url:          ""
+  # resume_facebook_url:          ""
+  resume_linkedin_url:          ""
+  # resume_instagram_url:         ""
+  resume_website_url:           ""
+  resume_medium_url:            ""
+resume_print_social_links:     false 
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

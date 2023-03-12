@@ -1,0 +1,30 @@
+# talks
+- url: "https://www.usenix.org/conference/enigma2021"
+  conference: USENIX Enigma
+  year:  2021. 
+  title: Building E2EE and User Identity.
+  description: Materials <a href="https://www.usenix.org/conference/enigma2021/presentation/mou">here</a>.
+- url: "https://2021.swisscyberstorm.com"
+  conference: Swiss Cyber Storm
+  year:  2021. 
+  title: "How Zoom is Building End-to-End Encryption."
+  description: 'Materials <a href="https://2021.swisscyberstorm.com/2021/10/17/Merry_Ember_Mou_-_How_Zoom_is_Building_End-to-End_Encryption.pdf">here</a>.'
+- url: "https://securitylunch.stanford.edu"
+  conference: Stanford Security Lunch
+  year:  2021. 
+- url: "https://www.cs.cornell.edu/secdg"
+  conference: Cornell Security Seminar
+  year:  "2021."
+- url: "https://chi2018.acm.org"
+  conference: CHI
+  year:  2018. 
+  title: "CivilServant: Community-Led Experiments in Platform Governance."
+  description: 'Report <a href="https://natematias.medium.com/remaking-large-scale-behavioral-research-for-democracy-new-paper-at-chi-2018-4569ee17f07a">here</a>.'
+- url: "https://civilservant.io/civilservant_summit_report_jan_2018"
+  conference: MIT Media Lab CivilServant Community Research Summit
+  year: 2018. 
+- url: "https://cluedumps.mit.edu"
+  conference: MIT SIPB Cluedump Talks
+  year:  2016. 
+  title: Easy digital security for everyday life. 
+  description: 'Materials <a href="http://cluedumps.mit.edu/wiki/2016/12-08">here</a>.'
