@@ -1,0 +1,34 @@
+# Jobs
+- company: Zoom Video Communications
+  position: Senior Security Software Engineer
+  duration: May 2020 &mdash; Present
+  summary: Designing and building infrastructure for end-to-end encryption.
+  projects:
+    - title: Zoom Transparency Tree
+      description: Designing and deploying a privacy-preserving public key directory system to support transparency and auditability of user E2EE identity. Partnering with infrastructure and product engineering teams to guarantee and improve user security across Zoom features.
+    - title: Zoom Cryptography Whitepaper
+      description: Maintaining a <a href="https://github.com/zoom/zoom-e2e-whitepaper">continually updated, public document</a> documenting the security and privacy properties of cryptographic designs powering Zoom products.
+    - title: Okta Authentication for End-to-End Encryption (E2EE)
+      description: Led technical design and development to support <a href="https://support.zoom.us/hc/en-us/articles/13117025348109-Setting-up-Okta-Authentication-for-E2EE">third-party attestations</a> of users’ cryptographic keys in E2EE video meetings. Drove implementation across ~10 teams spanning engineering, product, marketing, legal, and external partners.
+
+- company: Keybase
+  position: Software Engineer
+  duration: Oct 2019 &mdash; May 2020
+  summary: Worked on an encrypted chat platform, projects including team-encrypted key-value stores and Keybase-backed SSH CA.</p>
+ 
+- company: Expanse, Inc.
+  position: Software Engineer
+  duration: Sep 2017 &mdash; Jul 2019
+  summary: Developed functionality for a Internet asset discovery platform on a range of back-end projects, including network scanning infrastructure, ETL pipelines, microservice deployments, and internal tool full-stack development. 
+  projects:
+    - title: Contextual Ipv4 Scanning
+      description: Led project investigation and system implementation to improve global IPv4 scan accuracy and efficiency.
+  
+- company: CivilServant
+  position: Software Engineer, Researcher
+  duration: May 2016 &mdash; Sep 2017, July 2019 &mdash; Sep 2019
+  summary: Built and evaluated <a href="https://github.com/citizensandtech/CivilServant">software infrastructure</a> that facilitates <a href="https://citizensandtech.org/">large-scale participatory experimentation</a> of online moderation policies.
+  projects:
+    - title: Automated DMCA takedown notices online
+      description: Designed and deployed a study of <a href="https://citizensandtech.org/2020/09/chilling-effect-automated-law-enforcemen">the behaviorial effects of automated law enforcement on freedom of speech online</a>.
+
